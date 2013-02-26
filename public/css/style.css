@@ -1,0 +1,11 @@
+.home_menu a{
+	display: block;
+	float:left;
+	width:50%;
+	height:50%;
+	border-radius: 25px 25px 25px 25px;
+	background:red;
+}
+.home_menu a:hover{
+	text-decoration: none;
+}
